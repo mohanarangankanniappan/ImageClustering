@@ -17,3 +17,5 @@ Run the Feature Extraction and Clustering
 See the clustered  outcome at 
 ./images/clustered
 
+Results:
+https://github.com/mohanarangankanniappan/ImageClustering/issues/2
